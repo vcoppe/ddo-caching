@@ -8,7 +8,7 @@ New pruning techniques detailed in an article under review were implemented in `
 ## Requirements
 
 You need Rust and Cargo to compile the project.
-Following the [instructions here](https://doc.rust-lang.org/cargo/getting-started/installation.html) to get them on your machine.
+Follow the [instructions here](https://doc.rust-lang.org/cargo/getting-started/installation.html) to get them on your machine.
 
 ## Usage
 
