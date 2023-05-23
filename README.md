@@ -1,9 +1,11 @@
-# ddo-barrier
+# ddo-caching
 
 This repository contains the implementation of a generic branch-and-bound algorithm based on decision diagrams.
 All the code related to the classical algorithm was written by [xgillard](https://github.com/xgillard) who created the [DDO](https://github.com/xgillard/ddo) solver.
 
 New pruning techniques detailed in an article under review were implemented in `src/mdd/with_barrier.rs` and `src/solver/barrier.rs`.
+
+*These techniques have since been integrated to [DDO](https://github.com/xgillard/ddo), so you should better use DDO directly.*
 
 ## Requirements
 
